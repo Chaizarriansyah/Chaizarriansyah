@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Chaizarriansyah/Chaizarriansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kay**, an Informatics student based in Medan, Indonesia.
 
-Here are some ideas to get you started:
+I'm currently learning Java — working through OOP concepts, data structures,exception handling,and Java Swing — with a foundation in C++ from earlier coursework. I'm also explore web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My long-term goal is to become an internationally competitive software developer. 
+
+## Fun Facts 
+- 🐱 I love cats
+- 🎸 I play electric guitar
+- 🎬 I enjoy watching movies
+- 🎧 Music is a big part of my daily routine
+- 🎮 I game in my free time (Dark Souls, Zenless Zone Zero,and a visual novels)
+
+## Currently
+- 📚 Deepening my Java skills (OOP,Java Swing).
+- 🌐 web development.
+- 🎯 Working toward building something big.
+- 
+---
+*Always learning, always building.*
