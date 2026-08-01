@@ -17,6 +17,6 @@ My long-term goal is to become an internationally competitive software developer
 - 📚 Deepening my Java skills (OOP,Java Swing).
 - 🌐 web development.
 - 🎯 Working toward building something big.
-- 
+  
 ---
 *Always learning, always building.*
