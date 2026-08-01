@@ -2,7 +2,7 @@
 
 I'm **Kay**, an Informatics student based in Medan, Indonesia.
 
-I'm currently learning Java — working through OOP concepts, data structures,exception handling,and Java Swing — with a foundation in C++ from earlier coursework. I'm also explore web development.
+I'm currently learning Java, working through OOP concepts, data structures,exception handling,and Java Swing , with a foundation in C++ from earlier coursework. I'm also explore web development.
 
 My long-term goal is to become an internationally competitive software developer. 
 
